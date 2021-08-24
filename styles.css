@@ -1,0 +1,152 @@
+*{padding: 0;
+  margin: 0;
+  font-family:"Roboto", sans-serif; ;
+  }
+.container{
+    width: auto;
+    margin:0 auto;
+}
+header{
+    width: auto;
+    height: 100px;
+    background:#cb7802 ;
+}
+header img{
+    padding-left: 20px;
+}
+header .button{
+    float: right;
+    margin: 10px;
+}
+nav{
+    height: 35px;
+    background:#272f54;
+    margin-bottom: 5px;
+}
+nav .menu ul{
+    list-style: none;
+}
+nav .search{
+    line-height: 35px;
+    float: right;
+    margin-right: 25px;
+}
+div .slide img{
+    width: auto;
+}
+h1{
+    font: size px;
+    text-align: center;
+}
+
+table {
+     border-collapse: collapse;
+}
+td, th {
+     padding: 10px;
+}
+footer{
+    text-align: center;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+nav .menu ul li{
+    float: left;
+    line-height: 35px;
+    padding: 0 15px;
+}
+nav .menu ul li a{
+    color: #fff;
+    font: size 14px;
+    text-decoration: none;
+}
